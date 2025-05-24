@@ -21,5 +21,10 @@ printf(a);
 var myVar = "Hello, world!";
 ```
 
+## My Checklist
+- [X] Learning Python basics
+- [ ] Learning Linux basics
+- [ ] Shifting to Kali Linux
+
 ## Note of Thanks
 Thank you for visiting the site:)
